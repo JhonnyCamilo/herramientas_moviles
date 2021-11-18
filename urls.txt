@@ -4,4 +4,9 @@ driver de imagenes,gif y videos
 https://cloudinary.com/
 crear tamaños iconos android
 https://makeappicon.com/
-
+descarga android studio
+https://developer.android.com/studio
+software duplicar pantalla 
+https://www.apowersoft.us/apowermirror-es?apptype=aps-gg&gclid=Cj0KCQiAkNiMBhCxARIsAIDDKNUJjE_-hlejPD4iBYpHDyh9oIg3qYTdv1CwuEWT6O0XCf_OLPMmvOQaAtXwEALw_wcB
+creacion apk
+https://www.youtube.com/watch?v=TmmseFywWDs&list=PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y&index=68
