@@ -1,0 +1,7 @@
+diseño logos
+https://crello.com/es/home/
+driver de imagenes,gif y videos
+https://cloudinary.com/
+crear tamaños iconos android
+https://makeappicon.com/
+
